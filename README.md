@@ -1,5 +1,5 @@
-# Nexus
-Nexus create links between some divs using canvas.
+# Nipper
+Nipper allow to have responsive elipsis on fluid height.
 
 [Download](https://raw.githubusercontent.com/brunolandowski/nexus/master/nexus.js)
 ## Install
