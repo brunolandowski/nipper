@@ -1,0 +1,16 @@
+article {
+  height:60%;
+  background:red;
+  position:absolute;
+ 
+}
+
+ article p {
+    margin:0;
+    line-height:120%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+  }
